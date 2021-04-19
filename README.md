@@ -19,14 +19,6 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Python&show_icons=true&theme=radical)
 
-***<h2>:star: Best repositories!</h2>***
-
-
-**1)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Django)](https://github.com/Developer-Python/Django)
-
-**2)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Codewars)](https://github.com/Developer-Python/Codewars)
-
-**3)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Your-Protection-Pro)](https://github.com/Developer-Python/Your-Protection-Pro)
 <hr>
 
 ***<h2>:milky_way: Biography!</h2>***
@@ -48,3 +40,12 @@ My name is Evgeny Orlov and I am 18 years old in the IT industry, I have been in
 <code><img height="24" background='black' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="24" background='black' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
 <code><img height="24" background='black' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+***<h2>:star: Best repositories!</h2>***
+
+
+**1)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Django)](https://github.com/Developer-Python/Django)
+
+**2)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Codewars)](https://github.com/Developer-Python/Codewars)
+
+**3)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Your-Protection-Pro)](https://github.com/Developer-Python/Your-Protection-Pro)
