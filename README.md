@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**Welcome my dear friend-on my GitHub page**
-<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<p align='left'>Welcome my dear friend-on my GitHub page</p>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Python&show_icons=true&theme=radical)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Django)](https://github.com/Developer-Python/Django)
