@@ -15,15 +15,9 @@ Here are some ideas to get you started:
 
 ***<h1><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"><img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="30" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" style="max-width:100%;"></a> Hey nice to see you!</h1>***
 
-
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="195" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Python&show_icons=true&theme=radical)
-
-***<h2>:milky_way: Biography!</h2>***
-
-My name is Evgeny Orlov and I am 18 years old in the IT industry, I have been in the IT industry since I was 13, that is, for 5 years, my first language was C++, then I began to actively engage and study programming, then I went into Software development, but already in python, at the beginning I learned the basics, and then I began to hone my skills in Codewars, wrote programs with an interface(in QT Designer), learned asynchrony, multithreading, object-oriented programming, different sorting by type: bubble, etc., after that I decided to try myself in Web-based programming. In development, there I learned Html, Css, Javascript, Django, ReactJS, Jquery. In total, I can develop both programs and websites(Front-end and Back-end).
 
 ***<h2>:star: Best repositories!</h2>***
 
@@ -34,6 +28,10 @@ My name is Evgeny Orlov and I am 18 years old in the IT industry, I have been in
 
 **3)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Your-Protection-Pro)](https://github.com/Developer-Python/Your-Protection-Pro)
 <hr>
+
+***<h2>:milky_way: Biography!</h2>***
+
+My name is Evgeny Orlov and I am 18 years old in the IT industry, I have been in the IT industry since I was 13, that is, for 5 years, my first language was C++, then I began to actively engage and study programming, then I went into Software development, but already in python, at the beginning I learned the basics, and then I began to hone my skills in Codewars, wrote programs with an interface(in QT Designer), learned asynchrony, multithreading, object-oriented programming, different sorting by type: bubble, etc., after that I decided to try myself in Web-based programming. In development, there I learned Html, Css, Javascript, Django, ReactJS, Jquery. In total, I can develop both programs and websites(Front-end and Back-end).
 
 ***<h2>:mortar_board: Languages and Tools:</h2>***
 
