@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-***<h1>:star: Best repositories!</h1>***
+***<h1>:star: My best repositories!</h1>***
 
 **1)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Django)](https://github.com/Developer-Python/Django)
 
