@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 **3)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Your-Protection-Pro)](https://github.com/Developer-Python/Your-Protection-Pro)
 
 ***<h1>:pushpin: Contact me</h1>***
-**Email** - `zhenya.orlov86@mail.ru`
-**Facebook** - `https://web.facebook.com/eugeniy.orlov/`
-**VK** - `https://vk.com/fullstack02`
+**Email** - `zhenya.orlov86@mail.ru` <br/>
+**Facebook** - `https://web.facebook.com/eugeniy.orlov/` <br/>
+**VK** - `https://vk.com/fullstack02` <br/>
