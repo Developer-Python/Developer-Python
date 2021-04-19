@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align='left'>Welcome my dear friend-on my GitHub page</p>
+***<h2>Hey nice to see you!</h2>***
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-Python&show_icons=true&theme=radical)
