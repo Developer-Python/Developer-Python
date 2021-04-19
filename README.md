@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-***<h2>My best repository!</h2>***
+***<h2>:star: My best repositories!</h2>***
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Django)](https://github.com/Developer-Python/Django)
