@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Django)](https://github.com/Developer-Python/Django)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Codewars)](https://github.com/Developer-Python/Codewars)
+
 <hr>
 
 **Languages and Tools:**  
