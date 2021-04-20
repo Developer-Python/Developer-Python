@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ***<h1>:computer: Biography!</h1>***
 
-<h4>My name is Evgeny Orlov and I am 18 years old in the IT industry, I have been in the IT industry since I was 13, that is, for 5 years, my first language was C++, then I began to actively engage and study programming, then I went into Software development, but already in python, at the beginning I learned the basics, and then I began to hone my skills in Codewars, wrote programs with an interface(in QT Designer), learned asynchrony, multithreading, object-oriented programming, different sorting by type: bubble, etc., after that I decided to try myself in Web-based programming. In development, there I learned Html, Css, Javascript, Django, ReactJS, Jquery. In total, I can develop both programs and websites(Front-end and Back-end).</h4>
+<h4>My name is Evgeny Orlov and I am 18 years, I have been in the IT industry since I was 13, that is, for 5 years, my first language was C++, then I began to actively engage and study programming, then I went into Software development, but already in python, at the beginning I learned the basics, and then I began to hone my skills in Codewars, wrote programs with an interface(in QT Designer), learned asynchrony, multithreading, object-oriented programming, different sorting by type: bubble, etc., after that I decided to try myself in Web-based programming. In development, there I learned Html, Css, Javascript, Django, ReactJS, Jquery. In total, I can develop both programs and websites(Front-end and Back-end).</h4>
 
 ***<h1>:mortar_board: Languages and Tools:</h1>***
 
