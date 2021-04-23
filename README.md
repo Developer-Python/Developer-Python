@@ -45,9 +45,11 @@ Here are some ideas to get you started:
 
 **1)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Django)](https://github.com/Developer-Python/Django)
 
-**2)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Codewars)](https://github.com/Developer-Python/Codewars)
+**2)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Your-Protection-Pro)](https://github.com/Developer-Python/Your-Protection-Pro)
 
-**3)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Your-Protection-Pro)](https://github.com/Developer-Python/Your-Protection-Pro)
+**3)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Codewars)](https://github.com/Developer-Python/Codewars)
+
+
 
 ***<h1>:pushpin: Contact me</h1>***
 **Email** - `zhenya.orlov86@mail.ru` <br/><br/>
