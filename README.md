@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 ***<h1>:pushpin: Contact me</h1>***
 *Email* - `zhenya.orlov86@mail.ru` <br/>
 *Facebook* - `https://web.facebook.com/eugeniy.orlov/`<br/>
-*VK* - `https://vk.com/fullstack02` <br/>
+*VK* - `https://vk.com/fullstack02` <br/><br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Developer-Python&style=flat">
