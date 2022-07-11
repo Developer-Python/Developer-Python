@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 **4)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Tic-tac-toe)](https://github.com/Developer-Python/Tic-tac-toe)
 
+**5)** [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Python&repo=Most-Popular-Sorts)](https://github.com/Developer-Python/Tic-tac-toe)
 
 ***<h1>:pushpin: Contact me</h1>***
 *Email* - `zhenya.orlov86@mail.ru` <br/>
